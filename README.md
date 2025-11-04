@@ -43,13 +43,13 @@ In addition to personalized movie discovery, the application enables users to bo
   - System displays movies with title, poster, rating. 
   
       User can view more detailed information about the movie:
-        - Movie title []
-        - Release year []
-        - Director []
-        - Rating []
-        - Genre []
-        - Description []
-        - Cast? Optional []
+        - Movie title 
+        - Release year 
+        - Director 
+        - Rating 
+        - Genre 
+        - Description 
+        - Cast? Optional 
 
 - Alternative Flows: 
 
